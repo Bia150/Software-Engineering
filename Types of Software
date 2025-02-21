@@ -1,0 +1,19 @@
+##Custom:
+-For a specific customer
+##Generic:
+-Sold on open market
+Often called
+-COTS (Commercial Off The Shelf)
+-Shrink-wrapped (Refers to store-bought software, implying a standard platform that is widely supported.)
+##Embedded
+-Built into hardware
+-Hard to change
+##Real time software
+###Example. Control and monitoring systems
+-Must react immediately
+-Safety often a concern
+-Data processing software
+-Used to run businesses
+-Accuracy and security of data are key
+- Some software have both aspects
+
