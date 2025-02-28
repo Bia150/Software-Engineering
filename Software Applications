@@ -1,0 +1,13 @@
+##System software: 
+such as compilers, editors, file management utilities
+##Application software: 
+stand-alone programs for specific needs.  
+##Engineering/scientific software: Characterized by “number crunching”algorithms. such as automotive stress analysis, molecular biology, orbital dynamics etc 
+##Embedded software 
+resides within a product or system. (key pad control of a microwave oven, digital function of dashboard display in a car)
+##Product-line software 
+focus on a limited marketplace to address mass consumer market. (word processing, graphics, database management)
+##WebApps
+ (Web applications) network centric software. As web 2.0 emerges, more sophisticated computing environments is supported integrated with remote database and business applications. 
+##AI software
+ uses non-numerical algorithm to solve complex problem. Robotics, expert system, pattern recognition game playing
